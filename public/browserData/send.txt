@@ -1,0 +1,72 @@
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Fri, 02 Sep 2016 00:36:09 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 00:36:12 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 00:36:16 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 01:11:45 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:11:47 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+If you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by grabbing the process id (aka pid) and kill it with a kill -9 $pid.
+Link
+Fri, 02 Sep 2016 01:11:52 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:35:33 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+f you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by gr
+Link
+Fri, 02 Sep 2016 01:35:37 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+Link
+Fri, 02 Sep 2016 01:35:41 GMT
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+f you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by grabbing the process id (aka pid) and kill it with a kill -
+Link
+Fri, 02 Sep 2016 01:38:54 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:38:56 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+got it, thank
+Link
+Fri, 02 Sep 2016 01:38:59 GMT
+None
+***

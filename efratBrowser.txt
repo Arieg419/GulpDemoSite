@@ -1,0 +1,354 @@
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Windows users can do this : https://teamtreehouse.com/community/why-is-there-an-error-on-clicking-the-play-button-in-debugger
+Link
+Thu, 01 Sep 2016 21:28:01 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+Link
+Thu, 01 Sep 2016 21:28:03 GMT
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+you'll only see it if you have permissions; if you're running lsof as a different user than the app, try prefixing lsof -i:$port with sudo to make sure you have adequate permissions.
+Link
+Thu, 01 Sep 2016 21:28:08 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=60&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Thu, 01 Sep 2016 21:28:11 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=60&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+ think it may have to do with other processes using the same port, I tried killall but it didn't resolve.
+
+Here's the error msg and my code.
+Link
+Thu, 01 Sep 2016 21:28:17 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Thu, 01 Sep 2016 21:48:00 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Thu, 01 Sep 2016 21:48:05 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Windows users can do this : https://teamtreehouse.com/community/why-is-there-an-error-on-clicking-the-play-button-in-debugger
+Link
+Thu, 01 Sep 2016 21:28:01 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+Link
+Thu, 01 Sep 2016 21:28:03 GMT
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+you'll only see it if you have permissions; if you're running lsof as a different user than the app, try prefixing lsof -i:$port with sudo to make sure you have adequate permissions.
+Link
+Thu, 01 Sep 2016 21:28:08 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=60&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Thu, 01 Sep 2016 21:28:11 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=60&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+ think it may have to do with other processes using the same port, I tried killall but it didn't resolve.
+
+Here's the error msg and my code.
+Link
+Thu, 01 Sep 2016 21:28:17 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Thu, 01 Sep 2016 21:48:00 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Thu, 01 Sep 2016 21:48:05 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Thu, 01 Sep 2016 21:51:52 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Thu, 01 Sep 2016 21:51:56 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Thu, 01 Sep 2016 21:51:59 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+Link
+Thu, 01 Sep 2016 21:52:04 GMT
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system resta
+Link
+Fri, 02 Sep 2016 00:10:45 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 00:10:48 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+If you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by grabbing the process id (aka pid) and kill it with a kill -9 $pid.
+Link
+Fri, 02 Sep 2016 00:10:52 GMT
+None
+***
+how-do-javascript-closures-work
+How would you explain JavaScript closures to someone with a knowledge of the concepts they consist of (for example functions, variables and the like), but does not understand closures themselves?
+Link
+Fri, 02 Sep 2016 00:18:16 GMT
+None
+***
+how-do-javascript-closures-work
+	
+JavaScript Closures for Dummies
+
+Submitted by Morris on Tue, 2006-02-21 10:19. Community-edited since.
+Closures Are Not Magic
+
+This page explains closures so that a programmer can understand them — using working JavaScript code. It is not for gurus or functional programmers.
+
+Closures are not hard to understand once the core concept is grokked. However, they are impossible to understand by reading any academic papers or academically oriented information about them!
+
+This article is intended for programmers with some programming experience in a mainstream language, and who can read the following JavaScript function:
+Link
+Fri, 02 Sep 2016 00:18:21 GMT
+None
+***
+[{"txt":"","date":"Fri, 02 Sep 2016 00:18:16 GMT","title":"a.html;p=11087206258966;idfa=;idfa_lat=;aaid=;aaid_lat=;cache=1472775488526","url":"https://ad.atdmt.com/i/a.html;p=11087206258966;idfa=;idfa_lat=;aaid=;aaid_lat=;cache=1472775488526?click=http%3A%2F%2Fengine.adzerk.net%2Fr%3Fe%3DeyJhdiI6NDM3LCJhdCI6NCwiYnQiOjAsImNtIjo0MzgxMjUsImNoIjoxMTc4LCJjayI6e30sImNyIjoxNTE5MDMzLCJkaSI6ImI0MTRiMTc4NmY5ZTRhYmNiYzc5NWFhZjc4NjEyZmFlIiwiZG0iOjEsImZjIjoxNzcyNzU4LCJmbCI6MTgyOTE1NywiaXAiOiIzMS4xNjguMTA5LjIxOCIsImt3IjoiamF2YXNjcmlwdCxzY29wZSxjbG9zdXJlcyIsIm53IjoyMiwicGMiOjMuMywiZWMiOjMuMywicHIiOjE1NjcsInJ0IjoyLCJyZiI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jby5pbC8iLCJzdCI6ODI3NywidHIiOnRydWUsInVrIjoidWUxLWU3M2ZjZjA0ZTQ4MDRmMDFhYzMyMzgzYmYzNjZiMDVhIiwiem4iOjQzLCJ0cyI6MTQ3Mjc3NTQ4ODUyNywiYmYiOnRydWUsInBuIjoiYWR6ZXJrMTEzMTU3Nzc0NSIsInVyIjpudWxsfQ%26s%3DrIi6aD58fzPCAFeXFYrwGsJrur0%26url=","imgSource":""},{"txt":"","date":"Fri, 02 Sep 2016 00:18:21 GMT","title":"a.html;p=11087206258966;idfa=;idfa_lat=;aaid=;aaid_lat=;cache=1472775488526","url":"https://ad.atdmt.com/i/a.html;p=11087206258966;idfa=;idfa_lat=;aaid=;aaid_lat=;cache=1472775488526?click=http%3A%2F%2Fengine.adzerk.net%2Fr%3Fe%3DeyJhdiI6NDM3LCJhdCI6NCwiYnQiOjAsImNtIjo0MzgxMjUsImNoIjoxMTc4LCJjayI6e30sImNyIjoxNTE5MDMzLCJkaSI6ImI0MTRiMTc4NmY5ZTRhYmNiYzc5NWFhZjc4NjEyZmFlIiwiZG0iOjEsImZjIjoxNzcyNzU4LCJmbCI6MTgyOTE1NywiaXAiOiIzMS4xNjguMTA5LjIxOCIsImt3IjoiamF2YXNjcmlwdCxzY29wZSxjbG9zdXJlcyIsIm53IjoyMiwicGMiOjMuMywiZWMiOjMuMywicHIiOjE1NjcsInJ0IjoyLCJyZiI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jby5pbC8iLCJzdCI6ODI3NywidHIiOnRydWUsInVrIjoidWUxLWU3M2ZjZjA0ZTQ4MDRmMDFhYzMyMzgzYmYzNjZiMDVhIiwiem4iOjQzLCJ0cyI6MTQ3Mjc3NTQ4ODUyNywiYmYiOnRydWUsInBuIjoiYWR6ZXJrMTEzMTU3Nzc0NSIsInVyIjpudWxsfQ%26s%3DrIi6aD58fzPCAFeXFYrwGsJrur0%26url=","imgSource":""}]hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Fri, 02 Sep 2016 00:36:09 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 00:36:12 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 00:36:16 GMT
+None
+***
+how-do-javascript-closures-work
+How would you explain JavaScript closures to someone with a knowledge of the concepts they consist of (for example functions, variables and the like), but does not understand closures themselves?
+Link
+Fri, 02 Sep 2016 00:18:16 GMT
+None
+***
+how-do-javascript-closures-work
+	
+JavaScript Closures for Dummies
+
+Submitted by Morris on Tue, 2006-02-21 10:19. Community-edited since.
+Closures Are Not Magic
+
+This page explains closures so that a programmer can understand them — using working JavaScript code. It is not for gurus or functional programmers.
+
+Closures are not hard to understand once the core concept is grokked. However, they are impossible to understand by reading any academic papers or academically oriented information about them!
+
+This article is intended for programmers with some programming experience in a mainstream language, and who can read the following JavaScript function:
+Link
+Fri, 02 Sep 2016 00:18:21 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Fri, 02 Sep 2016 00:36:09 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 00:36:12 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 00:36:16 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 01:11:45 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:11:47 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+If you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by grabbing the process id (aka pid) and kill it with a kill -9 $pid.
+Link
+Fri, 02 Sep 2016 01:11:52 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Fri, 02 Sep 2016 00:36:09 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 00:36:12 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 00:36:16 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 01:11:45 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:11:47 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+If you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by grabbing the process id (aka pid) and kill it with a kill -9 $pid.
+Link
+Fri, 02 Sep 2016 01:11:52 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:35:33 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+f you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by gr
+Link
+Fri, 02 Sep 2016 01:35:37 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+Link
+Fri, 02 Sep 2016 01:35:41 GMT
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+Got it to work after complete system restart.
+Link
+Fri, 02 Sep 2016 00:36:09 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 00:36:12 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 00:36:16 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+lsof unfolded a hyperwebster, lsof -i:3000 is not showing anything at all, while i have the server running on that port, and It should be showing that process bound to that port.
+Link
+Fri, 02 Sep 2016 01:11:45 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:11:47 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+If you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by grabbing the process id (aka pid) and kill it with a kill -9 $pid.
+Link
+Fri, 02 Sep 2016 01:11:52 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:35:33 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+f you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by gr
+Link
+Fri, 02 Sep 2016 01:35:37 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+Link
+Fri, 02 Sep 2016 01:35:41 GMT
+https://uploads.teamtreehouse.com/production/profile-photos/5014952/micro_The-Hateful-Eight4.jpg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+f you use lsof, you can see what process is bound to the port with lsof -i:3000, and then force kill it by grabbing the process id (aka pid) and kill it with a kill -
+Link
+Fri, 02 Sep 2016 01:38:54 GMT
+None
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+Link
+Fri, 02 Sep 2016 01:38:56 GMT
+https://secure.gravatar.com/avatar/d1feaf6f13a46beaa7da5f71e77d6998?s=96&amp;d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-1194852ae95df3501aed27c0a96da653.png&amp;r=pg
+***
+hi-its-throwing-an-error-listen-eaddrinuse-3000-unhandled-error-event
+got it, thank
+Link
+Fri, 02 Sep 2016 01:38:59 GMT
+None
+***
